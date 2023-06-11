@@ -17,7 +17,7 @@
 <a href="./Docs/Инструкция.docx">Инструкция и описание работы (Word file, 12 страниц)</a>
 </p>
 <p>
-<a href="./Docs/LoadFirmware/LoadFirmware.md">Как прошить.</a><br>
+<a href="./Docs/LoadFirmware/LoadFirmware.md">Как прошить.</a>
 </p>
 
 <p align="left">
