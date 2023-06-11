@@ -21,10 +21,14 @@
 <img src="./Images/Loader1.jpg" width="40%"><br>
 Выбираем семейство<br>
 <img src="./Images/Loader2.jpg" width="40%"><br>
-Берем готовую прошивку<br>
+<br>
+Для данного проекта используем загрузчик Arduino.
 Для прошивки загрузчика необходимо изменить тип файлов на *.bin<br>
 <img src="./Images/Loader3.jpg" width="40%"><br>
 Прошиваем.<br>
 <img src="./Images/Loader4.jpg" width="40%"><br>
 Возвращаем перемычки в исходное положение.
+</p>
+<p>
+<a href="../HowLoadFirmware.md">После прошивки загрузчика, необходимо настроить среду разработки.</a>
 </p>
